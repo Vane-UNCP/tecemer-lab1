@@ -1,0 +1,53 @@
+{
+  "latitude": -12.056238,
+  "longitude": -75.20215,
+  "generationtime_ms": 1.0275840759277344,
+  "utc_offset_seconds": -18000,
+  "timezone": "America/Lima",
+  "timezone_abbreviation": "GMT-5",
+  "elevation": 3254.0,
+  "daily_units": {
+    "time": "iso8601",
+    "temperature_2m_max": "°C",
+    "temperature_2m_min": "°C",
+    "precipitation_sum": "mm"
+  },
+  "daily": {
+    "time": [
+      "2026-09-07",
+      "2026-09-08",
+      "2026-09-09",
+      "2026-09-10",
+      "2026-09-11",
+      "2026-09-12",
+      "2026-09-13"
+    ],
+    "temperature_2m_max": [
+      19.0,
+      19.9,
+      19.5,
+      19.1,
+      18.5,
+      20.0,
+      18.7
+    ],
+    "temperature_2m_min": [
+      6.9,
+      9.7,
+      8.5,
+      7.1,
+      7.3,
+      6.0,
+      6.9
+    ],
+    "precipitation_sum": [
+      3.6,
+      5.2,
+      5.6,
+      5.8,
+      1.5,
+      0.0,
+      0.4
+    ]
+  }
+}
